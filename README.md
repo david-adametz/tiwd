@@ -36,5 +36,4 @@ Explanation of input flags
 	--verbose				[optional] gives feedback every 100 Gibbs sweeps
 
 ----------
-David Adametz, 13th Sept 2013
-david.adametz@unibas.ch
+David Adametz
